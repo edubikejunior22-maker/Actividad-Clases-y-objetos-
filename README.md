@@ -40,13 +40,13 @@ edubique-clases-objetos/
 
 ## Capturas de la ejecución
 ### 1. Datos válidos
-![Datos válidos](capturas/datos-validos.png)
+
 
 ### 2. Precio negativo
-![Precio negativo](capturas/precio-negativo.png)
+
 
 ### 3. Nombre vacío
-![Nombre vacío](capturas/nombre-vacio.png)
+
 
 ### 4. Cantidad cero
-![Cantidad cero](capturas/cantidad-cero.png)
+
