@@ -1,11 +1,14 @@
 # Control de inventario de TecnoPunto
 
 ## Datos del autor
-- **Nombre:** Pedro Yunior Edubique Hernández
-- **Matrícula:** 2025-1422
-- **Universidad:** Universidad Central del Este (UCE) – Ingeniería de Software
-- **Materia:** Programación Básica
--  Prof. Gamalier Reyes de Carmen
+| Campo       | Detalle                            |
+|-------------|------------------------------------|
+| Nombre      | Pedro Yunior                       |
+| Matrícula   | 2025-1422                          |
+| Materia     | Programación Básica                |
+| Sección     | ISW-122-2                          |
+| Profesor    | Gamalier Reyes Del Carmen          |
+| Universidad | Universidad Central del Este (UCE) |
 
 ## Descripción del programa
 Aplicación de consola en C# que registra 3 productos de la tienda TecnoPunto y muestra su información.
