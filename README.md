@@ -1,7 +1,7 @@
 # Control de inventario de TecnoPunto
 
 ## Datos del autor
-| Campo       | Detalle                            |
+| Campo       | Detalles                            |
 |-------------|------------------------------------|
 | Nombre      | Pedro Yunior Edubike Hernandez|
 | Matrícula   | 2025-1422                          |
