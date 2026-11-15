@@ -4,7 +4,8 @@
 - **Nombre:** Pedro Yunior Edubique Hernández
 - **Matrícula:** 2025-1422
 - **Universidad:** Universidad Central del Este (UCE) – Ingeniería de Software
-- **Materia:** Programación Básica – Prof. Gamalier Reyes de Carmen
+- **Materia:** Programación Básica
+-  Prof. Gamalier Reyes de Carmen
 
 ## Descripción del programa
 Aplicación de consola en C# que registra 3 productos de la tienda TecnoPunto y muestra su información.
