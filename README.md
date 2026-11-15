@@ -3,7 +3,7 @@
 ## Datos del autor
 | Campo       | Detalle                            |
 |-------------|------------------------------------|
-| Nombre      | Pedro Yunior                       |
+| Nombre      | Pedro Yunior Edubike Hernandez|
 | Matrícula   | 2025-1422                          |
 | Materia     | Programación Básica                |
 | Sección     | ISW-122-2                          |
