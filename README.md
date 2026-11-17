@@ -44,18 +44,22 @@ edubique-clases-objetos/
 ## Capturas de la ejecución
 
 ### 1. Datos válidos
+<img width="497" height="949" alt="image" src="https://github.com/user-attachments/assets/5ee4e8d7-5e19-4a34-a1fb-586e0694666d" />
 
 
 
 ### 2. Precio negativo
+<img width="834" height="709" alt="image" src="https://github.com/user-attachments/assets/8aaca8af-c215-4f8b-a3f9-90288316ce70" />
 
 
 
 ### 3. Nombre vacío
+<img width="911" height="717" alt="image" src="https://github.com/user-attachments/assets/cc569624-f9f3-42b2-8126-7ac3d27289e2" />
 
 
 
 
 ### 4. Cantidad cero
+<img width="983" height="646" alt="image" src="https://github.com/user-attachments/assets/94723c48-8730-4158-9a97-a28331b127d9" />
 
 
